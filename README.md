@@ -2,8 +2,15 @@
 
 Minimal Astro starter with sensible defaults to build from the ground up.
 
+### Get Started
+
 ```
-npx degit astrostarters/astro-seed
+pnpm dlx degit astrostarters/astro-seed my-project
+
+cd my-project
+
+pnpm install
+pnpm dev
 ```
 
 ### Features
