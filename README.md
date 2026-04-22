@@ -8,13 +8,13 @@ npx degit astrostarters/astro-seed
 
 ### Features
 
-- **Astro 6** starter structure
-- **React 19** integration (`@astrojs/react`)
-- **Tailwind CSS** v4 (`@tailwindcss/vite`)
-- **shadcn/ui** setup
-- Built-in **theme system** with a ready `ThemeToggle` component
-- **SEO** support via `astro-seo`
-- Auto **sitemap** generation (`@astrojs/sitemap`)
-- `robots.txt` generation (`astro-robots-txt`)
-- Code quality tooling with **Biome** + **Ultracite**
-- Git hooks via **Lefthook**
+- ⭐ **Astro 6** starter structure
+- ⚡ **React 19** integration (`@astrojs/react`)
+- 🎨 **Tailwind CSS** v4 (`@tailwindcss/vite`)
+- 🦚 **shadcn/ui** setup
+- 🌓 Built-in **theme system** with a ready `ThemeToggle` component
+- 🔎 **SEO** support via `astro-seo`
+- 🗺️ Auto **sitemap** generation (`@astrojs/sitemap`)
+- 🤖 `robots.txt` generation (`astro-robots-txt`)
+- ✅ Code quality tooling with **Biome** + **Ultracite**
+- 🥊 Git hooks via **Lefthook**
