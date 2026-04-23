@@ -1,11 +1,11 @@
-## Astro Seed
+## Astro Blank 🌱
 
-Minimal Astro starter with sensible defaults to build from the ground up.
+> A minimal Astro starter with zero bloat; just the essentials to build anything.
 
 ### Get Started
 
 ```
-pnpm dlx degit astrostarters/astro-seed my-project
+pnpm dlx degit astrostarters/astro-blank my-project
 
 cd my-project
 
