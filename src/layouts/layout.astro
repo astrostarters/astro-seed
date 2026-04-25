@@ -1,16 +1,20 @@
 ---
+import { Font } from "astro:assets";
 import { SEO } from "astro-seo";
+import { siteConfig } from "@/config/site";
 
 import "@/styles/global.css";
-import { Font } from "astro:assets";
 
 interface Props {
   description?: string;
   title?: string;
 }
 
-const title = Astro.props.title || "Blank";
-const description = Astro.props.description || "A simple Astro starter kit";
+const title = Astro.props.title
+  ? `${Astro.props.title} | ${siteConfig.title}`
+  : siteConfig.title;
+
+const description = Astro.props.description || siteConfig.description;
 ---
 
 <!doctype html>
