@@ -1,3 +1,5 @@
+![Astro Blank Banner](/assets/banner.webp)
+
 ## Astro Blank 🌱
 
 > A minimal Astro starter with zero bloat; just the essentials to build anything.
